@@ -1,4 +1,16 @@
-﻿#Vacantes 21/12/22
+## Vacantes 23/12/22
+
+ 1. [Back Rubí/Python Híbrido Buenos Aires](https://www.linkedin.com/jobs/view/3378881847/?alternateChannel=search&refId=S4iDkRX%2bhPDyllsfadZLZg==&trackingId=GeV6801GQUWNaDHLUHcZVA==)
+ 2. [Backend](https://www.linkedin.com/jobs/view/3397458218/?alternateChannel=search&refId=S4iDkRX%2bhPDyllsfadZLZg==&trackingId=1dRGzdO3hvFXODXYNNakVw==)
+ 3. [FrontEnd Angular](https://ar.jooble.org/desc/3389521107988641103?extrlInt=8930714232304636701&cpc=d0FU&utm_source=affiliate&utm_medium=beebe_organic_ar)
+ 4. [Front End React](https://javascriptjob.xyz/job/2J18h615x6poRU3oYQO06em63BJ/FrontEndDeveloper-RemoteWork)
+ 5. [FrontEnd Presencial Rosario](https://ar.talent.com/w/rnd-templateWhitepage/?platform=&action=&uit=&id=9c573859cfe2&ost=true&source=bebee-jb_bulk&utm_medium=bebee-jb_bulk&ib=true&jobSeekerContext=&np=true&bulkStrategy=true)
+ 6. [FrontEnd Híbrido Santa Fe](https://www.glassdoor.com.ar/job-listing/frontend-developer-endeev-JV_IC4076418_KO0,18_KE19,25.htm?jl=1006517995838&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+ 7. [BackEnd FrontEnd FullStack](https://www.glassdoor.com.ar/job-listing/desarrolladores-juniors-o-jrs-avanzados-en-net-%E2%80%93-full-stack-developers-en-net-rh-master-JV_IC2224506_KO0,77_KE78,87.htm?jl=1006604487468&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+ 8. [FullStack](https://dicsys.catsone.com/careers/74803-General/jobs/15006280-Desarrollador-Full-stack)
+
+
+## Vacantes 21/12/22
 
  1. [Bosh WebFront](https://www.linkedin.com/jobs/view/3402493967/?eBP=NotAvailableFromMidTier&recommendedFlavor=SKILL_ASSESSMENTS&refId=hgfZVs7f3mCrb1fKjlUjHA==&trackingId=0yeyCYY%2b3/RV%2b7e3B4nT0A==&trk=flagship3_search_srp_jobs)
  2. WordPress developer freelancer, **Asunto colocar** "WordPress developer freelancer" contacto@desestudio.com.ar
